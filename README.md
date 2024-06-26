@@ -1,1 +1,1 @@
-# inventory_management_python
+# inventory_management_system
