@@ -24,7 +24,7 @@ It will open a Main Menu for the developed Inventory Management System
 4. Product Quantity is integer, and greater than 0
 5. Low Stock Reports will be generated if the Product Quantity is less that 5
 
-### Program Design Logics
+### Program Design Logics Used
 1. Product and Inventory are Classes, having private attributes and public methods
 2. Getter and setter function are made in the Product Class to enforce data encapsulation in the program
 
