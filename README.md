@@ -8,7 +8,7 @@ This system will allow users to manage products, track inventory levels, and gen
 
 ### Usage
 
-**Dependencies
+**Dependencies**
 
 1. Python 3.x
    
