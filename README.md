@@ -2,7 +2,7 @@
 
 
 ### Description
-Inventory Management System using Python
+Inventory Management System using Python <br />
 This system will allow users to manage products, track inventory levels, and generate reports. 
 
 
