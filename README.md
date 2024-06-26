@@ -7,6 +7,11 @@ This system will allow users to manage products, track inventory levels, and gen
 
 
 ### Usage
+
+**Dependencies
+
+1. Python 3.x
+   
 **Running the Program**
 
 1. Open command prompt or terminal in your device 
