@@ -15,7 +15,7 @@ This system will allow users to manage products, track inventory levels, and gen
 ```
 python3 inventory_management.py
 ```
-It will open a menu screen for the inventory management system
+It will open a Main Menu for the developed Inventory Management System
 
 ### Assumptions
 1. Product ID can be alphanumeric
