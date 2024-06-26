@@ -10,7 +10,7 @@ This system will allow users to manage products, track inventory levels, and gen
 **Running the Program**
 
 1. Open command prompt or terminal in your device 
-2. Locate to the directory where the file is saved
+2. Go to the directory where the file is saved
 3. Run the following command :
 ```
 python3 inventory_management.py
